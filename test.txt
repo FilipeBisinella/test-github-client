@@ -1,3 +1,5 @@
 test file
 
-first edit
+test edit 1
+
+--test edit 1
